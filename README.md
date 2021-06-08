@@ -52,8 +52,6 @@ $ ./buildSimOnly.sh
 #### ![ss2](https://i.hizliresim.com/rdgj1p0.png)
 - Different tasks can be performed with the specified numbers.
 
-# Swarm-UAV
-
 
 ### ALGORÝTHMS
 #### -set_triang_formation                                                                                                                           
