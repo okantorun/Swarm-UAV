@@ -29,7 +29,25 @@ $ ./buildSimOnly.sh
 
 
 ## Simulation
-<center>
+<p align="center">
   <img src="media/square-formation.gif" width="280"> 
+  <br />
   <img src="media/take-off-square.gif" width="280">
-</center>
+</p>
+
+
+
+
+## Menu
+- It is a control menu created to simulate the developed algorithms.
+
+### How It Works ?
+#### ![ss](https://i.hizliresim.com/j5cm3q1.png)
+- First of all, choose drone number.
+- Second, choose whether the drones will take off simultaneously or individually.
+- Choose how many meters they will rise.
+- Choose the distance between drones. 
+#### ![ss1](https://i.hizliresim.com/eiz26zi.png)
+-	The formation that can be entered is selected according to the number of drones. 
+#### ![ss2](https://i.hizliresim.com/rdgj1p0.png)
+- Different tasks can be performed with the specified numbers.
