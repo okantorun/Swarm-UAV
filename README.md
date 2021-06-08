@@ -31,6 +31,7 @@ $ ./buildSimOnly.sh
 ## Simulation
 <p align="center">
   <img src="media/square-formation.gif" width="280"> 
+  <br />
   <img src="media/take-off-square.gif" width="280">
 </p>
 
