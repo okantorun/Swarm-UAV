@@ -53,7 +53,7 @@ $ ./buildSimOnly.sh
 - Different tasks can be performed with the specified numbers.
 
 
-### ALGORÝTHMS
+### Algorithms
 #### -set_triang_formation                                                                                                                           
 
  
@@ -97,9 +97,9 @@ The purpose of this function is to create a square formation with the UAVs in th
 
 #### -set_v_formation
 
-The purpose of this function is to create a ‘v’ formation with the UAVs in the system.<br/>
+The purpose of this function is to create a â€˜vâ€™ formation with the UAVs in the system.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	--Parameters the Function Takes Are:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		1- distance = is the distance between the two vertices of the ‘v’ you want to form.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		1- distance = is the distance between the two vertices of the â€˜vâ€™ you want to form.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		2- yaw_angle = is the angle between two lines.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		3- drone_number = number of drones in the system<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		4- init_point = center at the time the swarm members call a function<br/>
