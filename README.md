@@ -53,7 +53,7 @@ $ ./buildSimOnly.sh
 - Different tasks can be performed with the specified numbers.
 
 
-### Algorithms
+## Algorithms
 #### -set_triang_formation                                                                                                                           
 
  
