@@ -1,6 +1,11 @@
 # Swarm-UAV 
+## Contents
+- [Installation](#Installation)
+- [Simulation](#Simulation)
+- [Menu](#Menu)
+- [Algorithms](#Algorithms)
 
-## Installation
+## Installation <a name="Installation"></a>
 - This project is developed in crazyswarm (see: https://crazyswarm.readthedocs.io/en/latest/index.html)
 - Firstly you should install Ros (see: https://www.ros.org/)
 - Then you should install crazyswarm. We will use just python api.
@@ -28,7 +33,7 @@ $ ./buildSimOnly.sh
 
 
 
-## Simulation
+## Simulation <a name="Simulation"></a>
 <p align="center">
   <img src="media/square-formation.gif" width="280"> 
   <br />
@@ -38,10 +43,9 @@ $ ./buildSimOnly.sh
 
 
 
-## Menu
+## Menu <a name="Menu"></a>
 - It is a control menu created to simulate the developed algorithms.
 
-### How It Works ?
 #### ![ss](https://i.hizliresim.com/j5cm3q1.png)
 - First of all, choose drone number.
 - Second, choose whether the drones will take off simultaneously or individually.
@@ -53,7 +57,7 @@ $ ./buildSimOnly.sh
 - Different tasks can be performed with the specified numbers.
 
 
-## Algorithms
+## Algorithms <a name="Algorithms"></a>
 #### -set_triang_formation                                                                                                                           
 
  
