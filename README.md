@@ -33,7 +33,7 @@ $ ./buildSimOnly.sh
 ```
 
 ## Features <a name="Features"></a>
-- UAV Individual take off, __formation__ in the air
+- UAV Individual take off, formation in the air
 - Take off with Formation
 - Adding a new individual to the Swarm
 - Removal of individual from the Swarm
