@@ -10,6 +10,12 @@
 ## Project Purpose <a name="PP"></a>
 The need for Swarm Unmanned Aerial Vehicles (Swarm UAV), one of the most important technologies of the near future, is increasing day by day. Swarm UAVs show their importance with both civil and military applications. For example, in a civilian scenario, it will be possible to intervene more effectively in forest fires with Swarm UAVs, and in a military scenario, it will be possible to gain superiority by developing alternative strategies and tactics against existing manned air, land and sea platforms. The main purpose of the Swarm UAV Competition is to compete.Developing software algorithms for the creation of UAVs that can perform the tasks defined in the specification in swarms, demonstrating the performances of these algorithms with Swarm UAVs in the physical environment, as well as guiding young people on the subject and increasing their experience and knowledge.
 
+<br/>
+<p align="center">
+  <img src="https://github.com/okantorun/Swarm-UAV/blob/main/media/swarm.JPG">
+</p>
+<br/>
+
 ## Installation <a name="Installation"></a>
 - This project is developed in crazyswarm (see: https://crazyswarm.readthedocs.io/en/latest/index.html)
 - Firstly you should install Ros (see: https://www.ros.org/)
