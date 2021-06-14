@@ -1,6 +1,7 @@
 # Swarm-UAV 
 ## Contents
 - [Installation](#Installation)
+- [Features](#Features)
 - [Simulation](#Simulation)
 - [Menu](#Menu)
 - [Algorithms](#Algorithms)
@@ -31,7 +32,18 @@ $ cd crazyswarm
 $ ./buildSimOnly.sh
 ```
 
-
+## Features <a name="Features"></a>
+- UAV Individual take off, __formation__ in the air
+- Take off with Formation
+- Adding a new individual to the Swarm
+- Removal of individual from the Swarm
+- Changing Swarm direction with formation protection
+- Formation change
+- Swarm separation
+- Swarm merge
+- Swarm navigation
+- Ascent and descent with swarm
+- Simultaneous / sequential auto-landing with Swarm 
 
 ## Simulation <a name="Simulation"></a>
 <p align="center">
